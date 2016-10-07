@@ -5,4 +5,4 @@ It's a game of Tic Tac Toe which a player can play with the computer. It's writt
 The AI is unbeatbale if it plays first.
 
 ##Screenshots
-![Screenshot]()
+![Screenshot](http://abc.com/abc/abc.png)
